@@ -2,8 +2,8 @@
 ### Sharif University of Technology  
 Instructor: **Dr. Ali Sharifi-Zarchi**
 
-This repository contains my homework assignments and practical implementations for the **Machine Learning (CE40477)** course at Sharif University of Technology (Fall 2024).  
-Each homework includes hands-on experiments, algorithm implementations, and detailed analysis following the course standards.
+This repository contains my practical assignments for the **Machine Learning (CE40477)** course at Sharif University of Technology.  
+Each assignment includes hands-on experiments, algorithm implementations, and detailed analysis.
 
 ---
 
